@@ -1,5 +1,8 @@
 EcommExample::Application.routes.draw do
 
+  resources :categories
+
+
   root :to => 'store#index', :via => :get
 
   match '/products/:id' => 'store#show', :as => 'product', :via => :get
