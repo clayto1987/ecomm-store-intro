@@ -24,6 +24,10 @@
     <%= f.text_field :price %>
   </div>
   <div class="field">
+    <%= f.label :image_filename %><br />
+    <%= f.text_field :image_filename %>
+  </div>
+  <div class="field">
     <%= f.label :category_id %><br />
     <%= f.collection_select :category_id, @categories, :id, :name %>
   </div>
