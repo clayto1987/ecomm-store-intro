@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770df76b-2766-4076-9f20-8297f60dad17" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/products/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/products/_form.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/products/_product.html.erb" afterPath="$PROJECT_DIR$/app/views/products/_product.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/product.rb" afterPath="$PROJECT_DIR$/app/models/product.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
     </list>
     <ignored path="ecomm_example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,7 +12,7 @@
     <file path="/index.html.erb" changelist="770df76b-2766-4076-9f20-8297f60dad17" time="1384363366376" ignored="false" />
     <file path="/store_controller.rb" changelist="770df76b-2766-4076-9f20-8297f60dad17" time="1384361346623" ignored="false" />
     <file path="/show.html.erb" changelist="770df76b-2766-4076-9f20-8297f60dad17" time="1384362150871" ignored="false" />
-    <file path="/_product.html.erb" changelist="770df76b-2766-4076-9f20-8297f60dad17" time="1384803341117" ignored="false" />
+    <file path="/_product.html.erb" changelist="770df76b-2766-4076-9f20-8297f60dad17" time="1384804045599" ignored="false" />
     <file path="/category.rb" changelist="770df76b-2766-4076-9f20-8297f60dad17" time="1384363932954" ignored="false" />
     <file path="/_form.html.erb" changelist="770df76b-2766-4076-9f20-8297f60dad17" time="1384803010788" ignored="false" />
     <file path="/products_controller.rb" changelist="770df76b-2766-4076-9f20-8297f60dad17" time="1384802234220" ignored="false" />
@@ -59,7 +56,7 @@
       <file leaf-file-name="_product.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/products/_product.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="43" selection-start="217" selection-end="217" vertical-scroll-proportion="0.11278196">
+            <state line="6" column="71" selection-start="245" selection-end="245" vertical-scroll-proportion="0.11278196">
               <folding />
             </state>
           </provider>
@@ -729,7 +726,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/products/_product.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="43" selection-start="217" selection-end="217" vertical-scroll-proportion="0.11278196">
+        <state line="6" column="71" selection-start="245" selection-end="245" vertical-scroll-proportion="0.11278196">
           <folding />
         </state>
       </provider>
